@@ -1,8 +1,8 @@
 {
-    "name": "kidzen/yii2-dynamicform",
+    "name": "aldhielman/yii2-dynamicform",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
-        "kidzen",
+        "aldhielman",
         "yii2",
         "extension",
         "widget",
@@ -19,14 +19,14 @@
     },
     "authors": [
         {
-            "name": "kidzen",
-            "email": "kidzenfxc@gmail.com"
+            "name": "aldhielaman",
+            "email": "rivaldithoriq@gmail.com"
         }
     ],
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/kidzen/yii2-dynamicform"
+            "url": "https://github.com/aldhielman/yii2-dynamicform"
         },
         {
             "type": "composer",
@@ -43,7 +43,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kidzen\\dynamicform\\": "src"
+            "aldhielman\\dynamicform\\": "src"
         }
     }
 }
