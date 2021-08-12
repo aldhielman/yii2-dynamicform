@@ -6,6 +6,8 @@ Notes
 
 - This version supports following Kartik Widgets in yii2-dynamic-form.js :  
   
+  "kartik-v/yii2-widget-number"
+  
   "kartik-v/yii2-widget-select2"
   
   "kartik-v/yii2-checkbox-x"
@@ -26,13 +28,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist kidzen/yii2-dynamicform "*"
+php composer.phar require --prefer-dist aldhielman/yii2-dynamicform "*"
 ```
 
 or add
 
 ```
-"kidzen/yii2-dynamicform": "*"
+"aldhielman/yii2-dynamicform": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -58,7 +60,7 @@ Usage
 <?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-use kidzen\dynamicform\DynamicFormWidget;
+use aldhielman\dynamicform\DynamicFormWidget;
 ?>
 
 <div class="customer-form">
@@ -387,7 +389,7 @@ class Model extends \yii\base\Model
 <?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-use kidzen\dynamicform\DynamicFormWidget;
+use aldhielman\dynamicform\DynamicFormWidget;
 ?>
 
 <div class="customer-form">
