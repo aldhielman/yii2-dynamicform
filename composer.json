@@ -13,13 +13,13 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/kidzen/yii2-dynamicform/issues",
-        "wiki": "https://github.com/kidzen/yii2-dynamicform/wiki/",
-        "source": "https://github.com/kidzen/yii2-dynamicform"
+        "issues": "https://github.com/aldhielman/yii2-dynamicform/issues",
+        "wiki": "https://github.com/aldhielman/yii2-dynamicform/wiki/",
+        "source": "https://github.com/aldhielman/yii2-dynamicform"
     },
     "authors": [
         {
-            "name": "aldhielaman",
+            "name": "aldhielman",
             "email": "rivaldithoriq@gmail.com"
         }
     ],
